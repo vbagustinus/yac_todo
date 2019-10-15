@@ -1,0 +1,4 @@
+#Tue Oct 15 15:59:07 WIB 2019
+base.0=/Users/nicolasjuniar/project/react native/yac_todo/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
